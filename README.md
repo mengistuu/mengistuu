@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @mengistuu
+- 👋 Hi, I’m @mengistu
 
 
 <!---
